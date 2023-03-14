@@ -1,0 +1,14 @@
+body{background: url("background.jpg");background-position: center;background-size: cover;}
+.heading{
+   text-align: center;
+   font-size: 25px;
+    width: 100%;
+}
+#input{
+    width:400px;
+}
+Canvas{
+    margin-top:200px;
+    border-radius: 20px;
+    border: 1px black solid;
+}
